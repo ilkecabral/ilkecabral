@@ -55,7 +55,7 @@ hobbies:
 
 | Project | Description |
 |---------|-------------|
-| 🧪 **[BuzzLab]([BuzzLab](https://github.com/ilkecabral/buzzlab))** | Self-hosted home lab on Proxmox — media stack, automation & security monitoring |
+| 🧪 **[BuzzLab](https://github.com/ilkecabral/buzzlab)** | Self-hosted home lab on Proxmox — media stack, automation & security monitoring |
 
 ---
 
